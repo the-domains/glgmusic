@@ -1,0 +1,14 @@
+layout_spectrum: 0.9895596134010702
+typography_spectrum: 0.6437807243783027
+color:
+  brandStrength: 0.41488151368685067
+  lightness: 0.30513204843737185
+  saturation: 0.6081314922776073
+  rhythmicContrast: 0.5556806675158441
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: GLGmusic
